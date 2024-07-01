@@ -1,4 +1,10 @@
 # Employee Attrition Classification using Scikit-Learn
+
+<hr>
+<h3>Data</h3>
+https://www.kaggle.com/datasets/colearninglounge/employee-attrition
+<br>
+
 <hr>
 <h2>Data Distribution</h2>
 <div align=center>
@@ -7,7 +13,3 @@
 <img src = "https://github.com/mongshil553/Scikit-Learn-Classification/assets/129606995/9260cff9-b1b2-498b-ae85-db95995731df" width="30%" height="30%" title="With PolynomialFeature and Oversampling">
 
 </div>
-
-
-<br>
-https://www.kaggle.com/datasets/colearninglounge/employee-attrition
