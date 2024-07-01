@@ -22,5 +22,11 @@ Left: KNeighborsClassifier, Right: DecisionTreeClassifier <br> <br>
 
 <div align=center>
 <img src = "https://github.com/mongshil553/Scikit-Learn-Classification/assets/129606995/317b5ee3-f6f2-45bc-89f5-220f7dbc093b" width="45%" height="45%"> &nbsp; &nbsp; <img src = "https://github.com/mongshil553/Scikit-Learn-Classification/assets/129606995/d00bbecd-ac36-4932-ac6f-793f95a22cdd" width="45%" height="45%"> <br>
-Left: XGBClassifier, Right: GradientBoostingClassifier
+Left: XGBClassifier, Right: GradientBoostingClassifier <br><br>
 </div>
+
+<div align=center>
+<img src = "https://github.com/mongshil553/Scikit-Learn-Classification/assets/129606995/2d8f3433-cb5c-489a-89c6-a7268a5603a8" width="45%" height="45%"><br>
+RandomForestClassifier <br><br>
+</div>
+
