@@ -29,3 +29,11 @@ Left: XGBClassifier, Right: GradientBoostingClassifier <br><br>
 <img src = "https://github.com/mongshil553/Scikit-Learn-Classification/assets/129606995/24ba72ce-5e19-42a6-90c7-fd2bc9e1da48" width="45%" height="45%"><br>
 RandomForestClassifier <br><br>
 </div>
+
+<hr>
+<h2>Ensemble</h2>
+<div align=center>
+<img src = "https://github.com/mongshil553/Scikit-Learn-Classification/assets/129606995/8d4bf597-c5ef-43ee-b46b-ea07590480fb" width="45%" height="45%"><br>
+Voting Ensemble using all of the model above. <br><br>
+</div>
+Through Voting Ensemble, Classification Precision has increased.
