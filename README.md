@@ -15,18 +15,17 @@ https://www.kaggle.com/datasets/colearninglounge/employee-attrition
 After preprocessing, the data distribution are shown in images above. <br>
 
 <hr>
-<h2>Classfication Results</h2>
+<h2>Classification Results</h2>
 <div align=center>
-<img src = "https://github.com/mongshil553/Scikit-Learn-Classification/assets/129606995/ee6c5560-f384-4271-908a-577e4b7a2a19" width="45%" height="45%"> &nbsp; &nbsp; <img src = "https://github.com/mongshil553/Scikit-Learn-Classification/assets/129606995/32918e9c-9d5f-4645-9f71-ed8d9c282746" width="45%" height="45%"><br>
+<img src = "https://github.com/mongshil553/Scikit-Learn-Classification/assets/129606995/cc800fc2-77fe-410f-a617-7f63fbd1449b" width="45%" height="45%"> &nbsp; &nbsp; <img src = "https://github.com/mongshil553/Scikit-Learn-Classification/assets/129606995/d6f60689-bea0-4c20-aea1-a271913d17ed" width="45%" height="45%"><br>
 Left: KNeighborsClassifier, Right: DecisionTreeClassifier <br> <br>
 
 <div align=center>
-<img src = "https://github.com/mongshil553/Scikit-Learn-Classification/assets/129606995/317b5ee3-f6f2-45bc-89f5-220f7dbc093b" width="45%" height="45%"> &nbsp; &nbsp; <img src = "https://github.com/mongshil553/Scikit-Learn-Classification/assets/129606995/d00bbecd-ac36-4932-ac6f-793f95a22cdd" width="45%" height="45%"> <br>
+<img src = "https://github.com/mongshil553/Scikit-Learn-Classification/assets/129606995/59a3fe45-1014-426b-8075-945d28230088" width="45%" height="45%"> &nbsp; &nbsp; <img src = "https://github.com/mongshil553/Scikit-Learn-Classification/assets/129606995/04194ff1-8ffe-4134-a92a-fe1c2479c44f" width="45%" height="45%"> <br>
 Left: XGBClassifier, Right: GradientBoostingClassifier <br><br>
 </div>
 
 <div align=center>
-<img src = "https://github.com/mongshil553/Scikit-Learn-Classification/assets/129606995/2d8f3433-cb5c-489a-89c6-a7268a5603a8" width="45%" height="45%"><br>
+<img src = "https://github.com/mongshil553/Scikit-Learn-Classification/assets/129606995/24ba72ce-5e19-42a6-90c7-fd2bc9e1da48" width="45%" height="45%"><br>
 RandomForestClassifier <br><br>
 </div>
-
