@@ -31,7 +31,7 @@ RandomForestClassifier <br><br>
 </div>
 
 <hr>
-<h2>Ensemble</h2>
+<div align=left> <h2>Ensemble</h2> </div>
 <div align=center>
 <img src = "https://github.com/mongshil553/Scikit-Learn-Classification/assets/129606995/8d4bf597-c5ef-43ee-b46b-ea07590480fb" width="45%" height="45%"><br>
 Voting Ensemble using all of the model above. <br><br>
