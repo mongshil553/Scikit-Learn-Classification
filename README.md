@@ -12,10 +12,20 @@ https://www.kaggle.com/datasets/colearninglounge/employee-attrition
 <img src = "https://github.com/mongshil553/Scikit-Learn-Classification/assets/129606995/93467cfc-2499-4ad9-8041-1ef2ede2e85d" width="32%" height="32%" title="With PolynomialFeature">
 <img src = "https://github.com/mongshil553/Scikit-Learn-Classification/assets/129606995/9260cff9-b1b2-498b-ae85-db95995731df" width="32%" height="32%" title="With PolynomialFeature and Oversampling">
 </div>
-After preprocessing, the data distribution are shown in images above. <br>
+After preprocessing, the data distribution are shown in the images above. <br>
 
 <hr>
-<h2>Classification Results</h2>
+<h2>Classification Models</h2>
+Selected Models are the following; <br><br>
+1. KNeighborsClassifier <br>
+2. DecisionTreeClassifier <br>
+3. XGBClassifier <br>
+4. GradientBoostingClassifier <br>
+5. RandomForestClassifier <br>
+6. Ensemble <br>
+
+<hr>
+<h2>Classification Performance</h2>
 <div align=center>
 <img src = "https://github.com/mongshil553/Scikit-Learn-Classification/assets/129606995/cc800fc2-77fe-410f-a617-7f63fbd1449b" width="45%" height="45%"> &nbsp; &nbsp; <img src = "https://github.com/mongshil553/Scikit-Learn-Classification/assets/129606995/d6f60689-bea0-4c20-aea1-a271913d17ed" width="45%" height="45%"><br>
 Left: KNeighborsClassifier, Right: DecisionTreeClassifier <br> <br>
